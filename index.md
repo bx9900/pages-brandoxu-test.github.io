@@ -1,3 +1,9 @@
+# AWS Serverless MCP Server
+
+## Overview
+
+The AWS Serverless Model Context Protocol (MCP) Server is an open-source tool that combines AI assistance with serverless expertise to streamline how developers build serverless applications. It provides contextual guidance specific to serverless development, helping developers make informed decisions about architecture, implementation, and deployment throughout the entire application development lifecycle. With AWS Serverless MCP, developers can build reliable, efficient, and production-ready serverless applications with confidence.
+
 Key benefits of the Serverless MCP Server include:
 - AI-powered serverless development: Provides rich contextual information to AI coding assistants to ensure your serverless application aligns with AWS best practices.
 - Comprehensive tooling: Offers tools for initialization, deployment, monitoring, and troubleshooting of serverless applications.
